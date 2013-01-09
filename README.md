@@ -92,3 +92,6 @@ http://uicraftsman.com/blog/2011/01/23/consuming-wcf-web-rest-apis-in-silverligh
             }
         });
     });
+
+# License
+[MIT License](https://github.com/joemcbride/HttpContrib/blob/master/LICENSE.md)
