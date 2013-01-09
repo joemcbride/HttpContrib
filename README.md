@@ -1,7 +1,7 @@
 HttpContrib
 ===========
 
-A simple http library to work with web apis.
+A simple http library to work with web apis.  Runs on .NET 4.0 and Silverlight 5.
 
 See the original blog posts:
 
