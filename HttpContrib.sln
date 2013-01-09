@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpContrib", "HttpContrib\HttpContrib.csproj", "{6AABB8EE-A40E-40F5-8C3B-17F2E1D30FDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpContrib.Silverlight", "HttpContrib.Silverlight\HttpContrib.Silverlight.csproj", "{34DBC47A-A504-4B00-B71A-6B109C03DFAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AABB8EE-A40E-40F5-8C3B-17F2E1D30FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AABB8EE-A40E-40F5-8C3B-17F2E1D30FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AABB8EE-A40E-40F5-8C3B-17F2E1D30FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AABB8EE-A40E-40F5-8C3B-17F2E1D30FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34DBC47A-A504-4B00-B71A-6B109C03DFAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34DBC47A-A504-4B00-B71A-6B109C03DFAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34DBC47A-A504-4B00-B71A-6B109C03DFAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34DBC47A-A504-4B00-B71A-6B109C03DFAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
