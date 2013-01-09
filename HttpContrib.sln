@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpContrib", "HttpContrib\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpContrib.Silverlight", "HttpContrib.Silverlight\HttpContrib.Silverlight.csproj", "{34DBC47A-A504-4B00-B71A-6B109C03DFAC}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Samples", "Samples", "{7504A89F-62CF-4C1A-A387-48E62820A230}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
